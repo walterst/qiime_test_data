@@ -1,0 +1,8 @@
+# fasta file validate_demultiplexed_fasta/seqs.fasta validation report
+Percent duplicate labels: 0.000
+Percent QIIME-incompatible fasta labels: 0.000
+Percent of labels that fail to map to SampleIDs: 0.250
+Percent of sequences with invalid characters: 0.000
+Percent of sequences with barcodes detected: 0.000
+Percent of sequences with barcodes detected at the beginning of the sequence: 0.000
+Percent of sequences with primers detected: 0.000
